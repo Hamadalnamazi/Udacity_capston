@@ -19,11 +19,17 @@ The project was implemented using Anaconda distribution of Python 3.0. Moreover 
 
 
 1.Matplotlib
+
 2.NumPy
+
 3.Pandas
+
 4.Seaborn
+
 5.Sklearn
+
 6.re
+
 7.xgboost
 
 
