@@ -58,7 +58,7 @@ Lastly, the folder contains the dataset from Kaggle (https://www.kaggle.com/c/pr
 
 ## Summary Of The Results
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available https://medium.com/p/b54396f1e49e/edit.
 
 ## Acknowledgements
 This competition is sponsored by the Robert Wood Johnson Foundation. Data is provided by the Chicago Department of Public Health.
